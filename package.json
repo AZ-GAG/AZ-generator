@@ -1,12 +1,12 @@
 {
+  "private": true,
   "name": "az-generator",
   "organizations": "AZ-GAG",
-  "version": "0.0.0",
+  "version": "1.0.3",
   "description": "generates az-gag",
-  "main": "index.js",
-  "type": "module",
+  "main": "lib.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no tes specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
   "contributors": [
     "Kwanho Kim <kwanho0096@gmail.com> (https://github.com/KKWANH)",
     "YeonSeong-Lee <yeonseong.dev@gmail.com> (https://github.com/YeonSeong-Lee)",
-    "Minjae Kim <hjn966@naver.com> (https://github.com/minjae9610)",
+    "Minjae Kim <mjkim961001@gmail.com> (https://github.com/minjae9610)",
     "Juyeong Maing <mjy9088@naver.com> (https://github.com/mjy9088)"
   ],
   "license": "MIT",

@@ -1,5 +1,5 @@
-import readline from 'readline'
-import getGag from './lib.js'
+const readline = require('readline');
+const getGag = require('./lib.js');
 
 const rl = readline.createInterface({
   input: process.stdin,
