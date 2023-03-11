@@ -10,7 +10,7 @@ npm install az-gen
 
 ## How to use?
 ```js
-import { AzGagGenerator } from "az-generator";
+import AzGagGenerator from "az-generator";
 
 const gag = AzGagGenerator();
 console.log(gag); // ["F가 애매한 이유는", "F=ma니까"]
@@ -24,8 +24,8 @@ Fork -> Clone -> Change -> Commit -> Push -> PR
 
 | package names |
 |:--:|
-| az-gen | 
-| az-generator | 
+| az-gen |
+| az-generator |
 
 
 ## Contributor
