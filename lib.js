@@ -3,7 +3,7 @@ const { resolve } = require("path");
 const assert = require("assert");
 
 /**
- * @type {[a: string, answer: string][]}
+ * @type {[question: string, answer: string][]}
  */
 const dataset = (() => {
   const question = readFileSync(resolve(__dirname, "AZ-GAG-dataset/question.csv")).toString().split("\n").filter((line) => line);
