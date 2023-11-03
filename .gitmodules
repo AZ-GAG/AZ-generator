@@ -1,3 +1,4 @@
 [submodule "AZ-GAG-dataset"]
 	path = AZ-GAG-dataset
 	url = https://github.com/AZ-GAG/AZ-GAG-dataset.git
+	branch = main
