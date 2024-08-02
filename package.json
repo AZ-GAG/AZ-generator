@@ -1,8 +1,8 @@
 {
-  "private": true,
+  "private": false,
   "name": "az-generator",
   "organizations": "AZ-GAG",
-  "version": "1.0.3",
+  "version": "1.0.12",
   "description": "generates az-gag",
   "main": "lib.js",
   "scripts": {
